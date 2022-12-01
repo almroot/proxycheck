@@ -1,5 +1,5 @@
 # proxycheck
-A bash script that scrapes various proxy feeds and asynchronously validates that any proxy is working.
+A bash script that scrapes various proxy feeds and asynchronously validates that any proxy is working. A fresh set of proxy servers can be found under [proxylist](https://github.com/almroot/proxylist).
 
 # usage
 
